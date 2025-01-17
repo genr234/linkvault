@@ -2,9 +2,9 @@
 
 type 72 on the numpad to try it out!
 
-![Home Page](assets/home.png)
-![Admin Page](assets/admin.png)
-![Message Example](assets/link.png)
+![Home Page](https://cloud-afvsmon17-hack-club-bot.vercel.app/0home.png)
+![Admin Page](https://cloud-gl0sxg6gk-hack-club-bot.vercel.app/0admin.png)
+![Message Example](https://cloud-kq7ks8if6-hack-club-bot.vercel.app/0link.png)
 
 Store your links, photos, videos and messages behind codes!
 

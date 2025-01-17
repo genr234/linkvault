@@ -7,7 +7,6 @@ import { useEffect, useState } from "react";
 import { Numpad } from "@/components/numpad";
 import { MonitorCog } from "lucide-react";
 import { useRouter } from "next/navigation";
-import Confetti from "react-confetti-boom";
 
 export default function Home() {
   const [username, setUsername] = useState("Loading... ");

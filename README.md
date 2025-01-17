@@ -1,6 +1,6 @@
 # LinkVault
 
-Built with ❤️ for [High Seas](hack.club)
+type 72 on the numpad to try it out!
 
 ![Home Page](assets/home.png)
 ![Admin Page](assets/admin.png)
@@ -18,3 +18,4 @@ bun i
 nano .env
 bun dev
 ```
+Built with ❤️ for [High Seas](hack.club)

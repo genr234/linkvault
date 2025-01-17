@@ -80,7 +80,7 @@ export default function AdminPage() {
       setLinks((prevLinks) => {
         let newId: number;
         if (prevLinks[prevLinks.length]?.id !== undefined) {
-          newId = prevLinks[prevLinks.length].id + 1;
+          newId = (prevLinks[prevLinks.length]?.id as number) + 1;
         } else {
           newId = 1;
         }
